@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/ShardScript.NET/ShardScript.NET.csproj" />
+  <Project Path="tests/ShardScript.NET.Tests/ShardScript.NET.Tests.csproj" />
+</Solution>
